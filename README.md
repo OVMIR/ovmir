@@ -1,36 +1,14 @@
-# 👋 Hello, I'm Mir
+# 👋 Hey, I'm Mir
 
-## 🚀 Full Stack Developer · AI Enthusiast · Tech Explorer
+> Shipping AI-native products that feel simple and smart.
 
-> Building the future, one line of code at a time.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovmir&show_icons=true&hide_title=true&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovmir&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
----
+### Now
+- 🧠 Designing copilots that automate real workflows
+- ⚙️ Building full-stack TypeScript + Python systems
+- 🚀 Always up for thoughtful collabs
 
-### 🎯 About Me
-- 🔭 Currently developing AI-powered applications that ship to production
-- 🌱 Always experimenting with new frameworks, tooling, and workflows
-- 💡 I enjoy translating fuzzy ideas into useful products
-- 🤝 Open to collaborations and interesting problems that make people think
-
-### 🧠 Focus Areas
-- ⚙️ Generative AI experiences that feel natural and useful
-- 📱 Full-stack web apps with thoughtful UX
-- ☁️ Cloud-native architectures that scale without drama
-
-### 🛠️ Toolbox
-| Area | Highlights |
-| --- | --- |
-| Languages | TypeScript, JavaScript, Python, Go |
-| Frontend | React, Next.js, Tailwind CSS |
-| Backend | Node.js, FastAPI, GraphQL |
-| Data & AI | LangChain, OpenAI API, vector stores |
-| Infra | Docker, AWS, Vercel |
-
-### 🌟 Recent Highlights
-- Built rapid prototypes for AI copilots that automate daily workflows
-- Shipped production-grade web apps end-to-end, from idea to deployment
-- Mentored teams on best practices for testing, observability, and DX
-
-### 📬 Let's Connect
+### Ping Me
 - GitHub: [@ovmir](https://github.com/ovmir)
-- Always happy to chat about ambitious ideas—feel free to reach out!
