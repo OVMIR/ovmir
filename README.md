@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Mir - full-stack engineer building reliable, AI-first products for the web" width="100%">
+  <img src="assets/banner.png" alt="Mir - full-stack engineer building reliable, AI-first products for the web" width="88%">
   <sub>Exploring agentic workflows, resilient systems, and expressive tools.
   </sub>
 </p>
