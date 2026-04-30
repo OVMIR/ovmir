@@ -7,19 +7,19 @@
 
 <p align="center">
   <br/>
-  <a href="https://mirow.me">
+  <a href="https://mirow.me" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-mirow.me-73E0A9?style=flat-square&labelColor=101820&logo=safari&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/mir_ow">
+  <a href="https://x.com/mir_ow" target="_blank">
     <img src="https://img.shields.io/badge/@mir__ow-63B3ED?style=flat-square&labelColor=101820&logo=X&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="https://calendly.com/mirow">
+  <a href="https://calendly.com/mirow" target="_blank">
     <img alt="Calendly" src="https://img.shields.io/badge/Calendly-schedule%20a%20call-F6C177?style=flat-square&labelColor=101820&logo=calendly&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mirow">
+  <a href="https://linkedin.com/in/mirow" target="_blank">
     <img alt="LinkedIn Profile"  src="https://img.shields.io/badge/LinkedIn-mirow-0A66C2?style=flat-square&labelColor=101820&logo=linkedin&logoColor=white">
   </a>
 </p>
